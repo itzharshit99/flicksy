@@ -4,6 +4,13 @@ Welcome to the Threads Clone repository! This project is a social media web appl
 
 ## Live Demo
 Check out the live version of the app here: [Flicksy](https://flicksy.onrender.com/)
+## images -- if website is down
+![Screenshot (293)](https://github.com/user-attachments/assets/4dbb5fc8-ebb6-4977-8838-ca739f823293)
+![Uploading Screenshot (292).png…]()
+![Screenshot (291)](https://github.com/user-attachments/assets/b5951fb5-1eee-4be3-bddf-71eddc226fe5)
+![Screenshot (290)](https://github.com/user-attachments/assets/a8725aac-f5dc-4db3-adf7-6231ce71e424)
+![Screenshot (289)](https://github.com/user-attachments/assets/0904d637-9757-4113-9972-15a0ecbbb4e1)
+![Screenshot (288)](https://github.com/user-attachments/assets/fafa9179-2b87-4581-8b9f-b8bfa1d5a84e)
 
 ## Features
 - **User Authentication**: Sign up, log in, and log out securely.
